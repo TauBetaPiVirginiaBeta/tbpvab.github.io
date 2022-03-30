@@ -22,7 +22,7 @@ title: Tau Beta Pi Virginia Beta Chapter at Virginia Tech
 email: your-email@example.com
 description: >- # this means to ignore newlines until "baseurl:"
   Welcome to the TBP-VAB Chapter at Virginia Tech!
-baseurl:  # the subpath of your site, e.g. /blog
+baseurl: /tbpvab.github.io # the subpath of your site, e.g. /blog
 url:  # the base hostname & protocol for your site, e.g. http://example.com
 twitter_username: jekyllrb
 github_username:  jekyll
