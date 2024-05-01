@@ -1,7 +1,7 @@
 ---
 layout: page
 title:  Teddy Bird
-permalink: /officer/teddy-bird
+permalink: /officers/teddy-bird
 name:  Teddy Bird
 year: 2021-2022 2023-2024
 regenerate: true
