@@ -1,11 +1,12 @@
 ---
 layout: page
 title: Officers
-permalink: /officers/
+permalink: /officers/2021-2022
+year: 2021-2022
 ---
 
 {% for board in site.data.yearly-positions %}
-  {% if board.year == site.data.sitewide.current-year %}
+  {% if board.year == page.year %}
   {% for position in board.positions %}
   {% assign position-name = position[0] %}
   {% assign person-name = position[1] %}
@@ -16,8 +17,3 @@ permalink: /officers/
   {% endfor %}
   {% endif %}
 {% endfor %}
-
-<br>
-<hr>
-<br>
-[Past Officers]({{ site.baseurl }}{% link past-officers.md %})

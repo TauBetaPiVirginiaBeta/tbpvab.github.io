@@ -1,6 +1,91 @@
 arinjoy-basak:
+  id: arinjoy-basak
   name: Arinjoy Basak
   email: arinjoyb@vt.edu
-julia_pimentel:
+
+mary-cyckowski:
+  id: mary-cyckowski
+  name: Mary Cyckowski
+  email: arinjoyb@vt.edu
+
+teddy-bird:
+  id: teddy-bird
+  name: Teddy Bird
+  email: teddymkb@vt.edu
+
+lili-zeblium:
+  id: lili-zeblium
+  name: Lili Zeblium
+  email: liliz@vt.edu
+
+geoffrey-yao:
+  id: geoffrey-yao
+  name: Geoffrey Yao
+  email: geoffreywyao@vt.edu
+
+nichole-dorn:
+  id: nichole-dorn
+  name: Nichole Dorn
+  email: nicholed20@vt.edu
+
+giorgia-cannici:
+  id: giorgia-cannici
+  name: Giorgia Cannici
+  email: gcannici@vt.edu
+
+jenny-li:
+  id: jenny-li
+  name: Jenny Li
+  email: jennyli@vt.edu
+
+candy-li:
+  id: candy-li
+  name: Candy Li
+  email: sample@noemail.edu
+
+travis-bowman:
+  id: travis-bowman
+  name: Travis Bowman
+  email: travis9@vt.edu
+  linkedin: https://www.linkedin.com/in/travis-l-bowman/
+
+cody-blankenship:
+  id: cody-blankenship
+  name: Cody Blankenship
+
+christie-ridgeway:
+  id: christie-ridgeway
+  name: Christie Ridgeway
+
+bruce-barbour:
+  id: bruce-barbour
+  name: Bruce Barbour
+
+hailey-foreman:
+  id: hailey-foreman
+  name: Hailey Foreman
+
+mackenzie-gehringer:
+  id: mackenzie-gehringer
+  name: Mackenzie Gehringer
+
+matt-brown:
+  id: matt-brown
+  name: Matt Brown
+
+nathan-brand:
+  id: nathan-brand
+  name: Nathan Brand
+
+gwyneth-schloer:
+  id: gwyneth-schloer
+  name: Gwyneth Schloer
+
+julia-pimentel:
+  id: julia-pimentel
   name: Julia Pimentel
-  email: 
+
+sample-officer:
+  id: sample-officer
+  name: Sample Officer
+  email: sample@noemail.edu

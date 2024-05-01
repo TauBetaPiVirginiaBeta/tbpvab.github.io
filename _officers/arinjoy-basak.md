@@ -1,11 +1,8 @@
 ---
 layout: page
 title:  Arinjoy Basak
-permalink: /officers/arinjoy-basak
-name:  Arinjoy Basak
-position: Webmaster
+permalink: /officer/arinjoy-basak
 year: 2021-2022 2022-2023
-regenerate: true
 ---
 
 <div>

@@ -4,7 +4,7 @@ title: About
 permalink: /about/
 ---
 
-<img src="{{ site.baseurl }}/assets/img/Horizontal_BROWN2.png">
+<img class="center" src="{{ site.baseurl }}/assets/img/Horizontal_BROWN2.png">
 
 The [Tau Beta Pi Association](http://www.tbp.org/), national engineering honor society, was founded at Lehigh University in 1885 by Dr. Edward Higginson Williams, Jr., "to mark in a fitting manner those who have conferred honor upon their Alma Mater by distinguished scholarship and exemplary character as undergraduate in engineering, or by their attainments as alumi in the field of engineering, and to foster a spirit of liberal culture in engineering colleges."-Preamble to the Constitution.
 

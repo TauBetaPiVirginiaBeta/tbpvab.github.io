@@ -22,8 +22,7 @@ title: Tau Beta Pi Virginia Beta Chapter at Virginia Tech
 email: your-email@example.com
 description: >- # this means to ignore newlines until "baseurl:"
   Welcome to the TBP-VAB Chapter at Virginia Tech!
-#baseurl: /tbpvab.github.io # the subpath of your site, e.g. /blog
-baseurl: / # changed for dedicated repository
+baseurl: /tbpvab.github.io # the subpath of your site, e.g. /blog
 url:  http://tbp.org.vt.edu/ # the base hostname & protocol for your site, e.g. http://example.com
 twitter_username: jekyllrb
 github_username:  jekyll
@@ -49,14 +48,21 @@ menu:
     url:   /about/
   - title: Officers
     url:   /officers/
+  # - title: AutoOfficers
+  #   url:   /officers-temp/
   - title: Events
     url:   /events/
   - title: Links
     url:   /links/
+  - title: Contact
+    url:  /contact/
 
 collections:
   featured_categories:
     permalink:         /events/
+    output:            true
+  officers:
+    permalink:         /officers/
     output:            true
 
 #  - title: Candidates
@@ -85,6 +91,10 @@ defaults:
       path:            assets/
     values:
       sitemap:         false
+
+# changing the favicons to VT specific favicon
+favicon:              /assets/icons/favicon-32x32.png
+apple_touch_icon:     /assets/icons/apple-touch-icon-192x192.png
 
 hydejack:
   no_drawer:         false

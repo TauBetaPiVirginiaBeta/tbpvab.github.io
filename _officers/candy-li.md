@@ -1,11 +1,7 @@
 ---
 layout: page
 title:  Candy Li
-permalink: /officers/candy-li
-name:  Candy Li
-position: Social Chair
-year: 2021-2022
-regenerate: true
+permalink: /officer/candy-li
 ---
 
 <div>

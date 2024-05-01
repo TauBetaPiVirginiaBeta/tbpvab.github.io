@@ -2,10 +2,6 @@
 layout: page
 title:  Julia Pimentel
 permalink: /officers/julia-pimentel
-name:  Julia Pimentel
-position: Vice President
-year: 2021-2022
-regenerate: true
 ---
 
 <div>

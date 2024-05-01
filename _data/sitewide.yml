@@ -1,0 +1,26 @@
+# Stores information that is accessible sitewide.
+
+# Key for the current year; change this after elections each year.
+current-year: 2023-2024
+# current-year: 2024-2025
+
+# find a way to state the order in 
+# which officer positions should appear
+# currently unused
+positions-order: None
+
+# Full formatted name of each position (may be messed with for April Fools)
+positions-details:
+  president: President
+  vice-president: Vice President
+  treasurer: Treasurer
+  secretary: Secretary
+  social-chair: Social Chair
+  service-chair: Service Chair
+  initiation-chair: Initiation Chair
+  initiation-chair-fall: Initiation Chair (Fall)
+  initiation-chair-spring: Initiation Chair (Spring)
+  acad-corpo-chair: Academic and Corporate Affairs Chair
+  webmaster: Webmaster
+  historian: Historian
+  

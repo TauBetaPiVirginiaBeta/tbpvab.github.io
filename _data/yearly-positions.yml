@@ -1,0 +1,42 @@
+# This file stores information on the officers in each post for a given year.
+# - year: 2024-2025
+#   positions:
+#     president: lili-zeblium
+
+- year: 2023-2024
+  positions:
+    president: teddy-bird
+    vice-president: lili-zeblium
+    secretary: mary-cyckowski
+    webmaster: arinjoy-basak
+    
+- year: 2022-2023
+  positions:
+    president: gwyneth-schloer
+    vice-president: lili-zeblium
+    treasurer: bruce-barbour
+    secretary: mary-cyckowski
+    social-chair: hailey-foreman
+    service-chair: mackenzie-gehringer
+    acad-corpo-chair: matt-brown
+    historian: nathan-brand
+    webmaster: arinjoy-basak
+
+- year: 2021-2022
+  positions:
+    president: travis-bowman
+    vice-president: julia-pimentel
+    treasurer: cody-blankenship
+    social-chair: candy-li
+    initiation-chair-fall: christie-ridgeway
+    initiation-chair-spring: teddy-bird
+    webmaster: arinjoy-basak
+
+# - year: 2021-2022
+#   positions:
+#     president: sample-officer
+#     vice-president: sample-officer
+#     treasurer: sample-officer
+#     secretary: sample-officer
+#     social-chair: sample-officer
+#     initiation-chair: sample-officer
